@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="container_margin">8dp</dimen>
+    <dimen name="container_horizontal_margin">16dp</dimen>
+    <dimen name="recycler_view_item_offset">6dp</dimen>
+    <dimen name="something_went_wrong_image_size">108dp</dimen>
+
+    <dimen name="movie_title_font_size">19sp</dimen>
+    <dimen name="movie_info_font_size">15sp</dimen>
+    <dimen name="movie_overview_font_size">14sp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="release_date_label">Release date: %s</string>
+    <string name="average_rating_label">Average rating: %.2f</string>
+    <string name="something_went_wrong_text">Something went wrong</string>
+    <string name="retry_button_tet">Retry</string>
+</resources>
